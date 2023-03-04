@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator-iPhone</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="multiply">multiply</string>
+    <string name="seven">7</string>
+    <string name="divide">divide</string>
+    <string name="percent">percent</string>
+    <string name="plus_minus">plus minus</string>
+    <string name="clear">AC</string>
+</resources>
